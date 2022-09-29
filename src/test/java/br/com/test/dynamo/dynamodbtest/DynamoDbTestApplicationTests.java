@@ -1,4 +1,4 @@
-package br.com.teste.dynamo.dynamodbtest;
+package br.com.test.dynamo.dynamodbtest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
